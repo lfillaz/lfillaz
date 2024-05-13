@@ -1,7 +1,7 @@
 ## Cybersecurity Expert, Bug Bounty Hunter, and Programmer
 
 <p align="left">
-  <img height="180" width="220" src="lfillazme.gif">
+  <img src="lfillazme.gif">
 </p>
 
 **Certified Digital Forensic Investigator (DFE)**
