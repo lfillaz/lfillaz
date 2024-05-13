@@ -1,7 +1,7 @@
 ## Cybersecurity Expert, Bug Bounty Hunter, and Programmer
 
 <p align="left">
-  <img height="180" width="220" src="[https://github.com/0x157/0x157/assets/102762345/045bdd0b-e764-4349-92f1-e959cdc29878](https://discord.com/assets/f2e7e039481fe710db89197038b53d11.svg)">
+  <img height="180" width="220" src="[[https://github.com/0x157/0x157/assets/102762345/045bdd0b-e764-4349-92f1-e959cdc29878](https://discord.com/assets/f2e7e039481fe710db89197038b53d11.svg](https://i.pinimg.com/originals/2a/8b/6d/2a8b6d58b781dae308a3ac2040506c66.gif))">
 </p>
 
 **Certified Digital Forensic Investigator (DFE)**
