@@ -26,4 +26,4 @@
 - Contact me via Discord (@l.az) or Instagram (@lfillaz)
 
 ## 2022-2024
-![Snake animation](https://github.com/0x157/0x157/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](laz.svg)
