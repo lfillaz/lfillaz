@@ -10,6 +10,7 @@
 - Python: >90%
 - C++: >70%
 - Go: >40%
+- Dart: >80%
 - C#: >60%
 
 **Activities:**
