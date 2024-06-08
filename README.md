@@ -8,6 +8,8 @@
 
 **Skills:**
 - Python: >90%
+- js: >70%
+- java: >80%
 - C++: >70%
 - Go: >40%
 - Dart: >80%
