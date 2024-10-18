@@ -48,4 +48,3 @@
   </a>
 </p>
 ## 2022-2024 Contributions
-![Snake animation](laz.svg)
