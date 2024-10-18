@@ -1,8 +1,9 @@
 # Cybersecurity Expert, Bug Bounty Hunter, and Programmer
 
 <p align="left">
-  <img src="lfillaz.gif" alt="GIF"/>
+  <img src="lfillaz.gif" alt="GIF" width="200" height="200"/>
 </p>
+
 
 <p align="left">
   <img height=97 src="https://github-profile-trophy.vercel.app/?username=lfillaz&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1" alt="Trophy"/>
