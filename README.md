@@ -1,7 +1,7 @@
 # Cybersecurity Expert, Bug Bounty Hunter, and Programmer
 
 <p align="left">
-  <img src="lazandpc2.gif" alt="GIF"/>
+  <img src="lfillaz.gif" alt="GIF"/>
 </p>
 
 <p align="left">
