@@ -38,7 +38,7 @@
 ## Availability
 - Open for programming requests
 - Contact me via Discord (@l.az) or Instagram (@lfillaz)
-
+![Snake animation](laz.svg)
 ---
 <p align="left">
   <img height=97 src="https://github-profile-trophy.vercel.app/?username=lfillaz&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1" alt="Trophy"/>
