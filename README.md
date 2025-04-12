@@ -11,16 +11,6 @@
  
 ---
 
-## Skills
-- **Python:** >90%
-- **JavaScript:** >70%
-- **Java:** >80%
-- **C++:** >50%
-- **Go:** >40%
-- **Dart:** >80%
-- **C#:** >60%
-
-
 ![image](https://github.com/user-attachments/assets/1e0b1c34-a90d-40d7-b81c-6c5aab0d4c30)
 
 ---
