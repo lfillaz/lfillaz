@@ -23,7 +23,7 @@
 ---
 
 ## Connect with Me
-- **Discord Server:** [Join here](https://discord.gg/tpbVvUgcE3)
+- **Discord Server:** [Join here](https://discord.gg/byt)
 - **Instagram:** [@lfillaz](https://www.instagram.com/lfillaz)
 
 ---
