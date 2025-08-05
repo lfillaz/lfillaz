@@ -23,7 +23,7 @@
 ---
 
 ## Connect with Me
-- **Discord Server:** [Join here](https://discord.gg/byt)
+- **Discord Server:** [Join here](https://discord.com/servers/ghostbyte-r-ttu-1249113251006906430)
 - **Instagram:** [@lfillaz](https://www.instagram.com/lfillaz)
 
 ---
