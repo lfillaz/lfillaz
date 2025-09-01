@@ -21,6 +21,11 @@
 - Identified vulnerabilities in major companies like Epic Games and Meta, as well as 12 government websites
 
 ---
+Languages I speak
+Arabic 100%
+Somali 100%
+English 94%
+Korean 35%
 
 ## Connect with Me
 - **Discord Server:** [Join here](https://discord.com/servers/ghostbyte-r-ttu-1249113251006906430)
