@@ -32,7 +32,6 @@
 ---
 
 <p align="left">
-  <img height=97 src="https://github-readme-stats.vercel.app/api?username=lfillaz&show_icons=true&theme=radical&title=Profile+Stats" alt="Profile Stats"/>
   <img height=202 src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=lfillaz&theme=radical" alt="Streak Stats"/>
   <a href="#">
     <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=lfillaz&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" alt="Top Languages"/>
