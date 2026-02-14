@@ -1,31 +1,22 @@
 # Cybersecurity Expert, Bug Bounty Hunter, and Programmer
 
-<p align="left">
+<p align="center">
   <img src="lazdiscord.gif" alt="GIF" width="500" height="100"/>
 </p>
 
 ---
 
-## Certification
-**Certified Digital Forensic Investigator (DFE)**
- 
+## Snapshot
+- **Certification:** Certified Digital Forensic Investigator (DFE)
+- **Focus:** Web3 exploit research, offensive automation, and incident response playbooks
+- **Current activities:** frequent CTF participant, ongoing vulnerability research, disclosures for Epic Games, Meta, discord, snapchat, and more
+- **Languages:** Arabic (100%), Somali (100%), English (100%), Korean (35%)
+
 ---
 
 ![image](https://github.com/user-attachments/assets/1e0b1c34-a90d-40d7-b81c-6c5aab0d4c30)
 
 ---
-
-## Activities
-- Regular participant in CTF tournaments
-- Actively researching security vulnerabilities
-- Identified vulnerabilities in major companies like Epic Games and Meta, as well as 12 government websites
-
----
-Languages I speak
-Arabic 100%
-Somali 100%
-English 94%
-Korean 35%
 
 ## Connect with Me
 - **Discord Server:** [Join here](https://discord.com/servers/ghostbyte-r-ttu-1249113251006906430)
@@ -34,10 +25,12 @@ Korean 35%
 ---
 
 ## Availability
-- Open for programming requests
-- Contact me via Discord (@l.az) or Instagram (@lfillaz)
-![Snake animation](laz.svg)
+- Open for programming requests and collaborative red-team engagements
+- Contact via Discord (@l.az) or Instagram (@lfillaz)
+- ![Snake animation](laz.svg)
+
 ---
+
 <p align="left">
   <img height=97 src="https://github-profile-trophy.vercel.app/?username=lfillaz&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1" alt="Trophy"/>
   <img height=202 src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=lfillaz&theme=radical" alt="Streak Stats"/>
