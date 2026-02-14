@@ -1,7 +1,7 @@
 # Cybersecurity Expert, Bug Bounty Hunter, and Programmer
 
 <p align="center">
-  <img src="lazdiscord.gif" alt="GIF" width="600" height="400"/>
+  <img src="lazdiscord.gif" alt="GIF" width="1900" height="700"/>
 </p>
 
 ---
