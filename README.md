@@ -1,10 +1,4 @@
-# Cybersecurity Expert, Bug Bounty Hunter, and Programmer
-
-<p align="center">
-  <img src="lazdiscord.gif" alt="GIF" width="1900" height="600"/>
-</p>
-
----
+# Bug Bounty Hunter, and Programmer
 
 ## Snapshot
 - **Certification:** Certified Digital Forensic Investigator (DFE)
